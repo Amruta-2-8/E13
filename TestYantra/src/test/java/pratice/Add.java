@@ -1,0 +1,14 @@
+package pratice;
+
+public class Add {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+   System.out.println("hello students ");
+   System.out.println("hello students ");
+   System.out.println("hello students ");
+   System.out.println("hello students ");
+   
+	}
+
+}
